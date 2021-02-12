@@ -1,0 +1,3 @@
+######
+Update Nodejs / npm
+sudo n stable    -- or sudo n latest for latest version
