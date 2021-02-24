@@ -1,0 +1,4 @@
+// Make sure babel is downloaded and both input and output file are created
+
+to initiate use:
+babel "file you are writing JSX in" --out-file="where you the output the code" --presets="env,react" --watch
