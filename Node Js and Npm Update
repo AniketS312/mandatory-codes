@@ -1,3 +1,5 @@
 ######
 Update Nodejs / npm
-sudo npm/node install -g npm/node   -- or sudo n latest for latest version
+
+NodeJS - sudo n stable/latest
+sudo npm install -g npm   -- or sudo n latest for latest version
